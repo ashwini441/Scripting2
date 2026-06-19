@@ -4,5 +4,5 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo "I am doing my first change in github"
 echo "Welcome to Github....!!!!!!"
-echo "I want to keep my changes"
-echo "Add my new changes"
+echo "I am in the branch b1"
+
